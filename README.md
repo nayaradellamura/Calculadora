@@ -1,1 +1,2 @@
-Projetinho de calculadora feito na faculdade, feito com HTML, CSS e JS
+Conteúdo feito na matéria de Programação para Web I 
+Calculadora desenvolvida com HTML, CSS e JS
